@@ -13,3 +13,4 @@ Company | Description | Location
 [Line 5](https://www.line5.com/) | Line 5 partners with dealers like you to fully fund vehicle protection plans for Automobiles, SUVs, Trucks and more. | Sunrise, FL
 [Resorcity](https://www.resorcity.com/) | Resorcity is a free, community-specific, reward-based engagement platform that lets users earn points, promotions, and rewards from participating local businesses, local charities, and municipalities. | Coral Gables, FL
 [ShipSticks](https://www.shipsticks.com/) | At Ship Sticks, we make getting your golf clubs to and from your destination easier than it’s ever been – allowing you to enjoy a hassle-free travel experience to anywhere in the world. | West Palm Beach, FL
+[SpringBig](https://springbig.com/) | SpringBig is a leading cannabis marketing platform. | Boca Raton, FL
